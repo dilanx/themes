@@ -1,6 +1,6 @@
 {
   "name": "@dilanx/themes",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A collection of themes for Dilan's websites",
   "prettier": "@dilanx/config/prettier",
   "scripts": {},

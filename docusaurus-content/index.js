@@ -1,5 +1,5 @@
 module.exports = {
-  content: [
+  footer: [
     {
       title: 'Community',
       items: [
